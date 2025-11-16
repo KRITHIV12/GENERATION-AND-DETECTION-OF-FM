@@ -138,10 +138,18 @@ ylabel("Amplitude");
 ```
 
 ## TABULATION
+<img width="1280" height="991" alt="image" src="https://github.com/user-attachments/assets/1b2a914b-c590-407a-a150-32b261823f7d" />
+
 
 ## CALCULATION
+<img width="1263" height="1280" alt="image" src="https://github.com/user-attachments/assets/d2499d62-99a6-45ce-ac01-46642fad5d03" />
+
 
 ## OUTPUT
+<img width="1918" height="905" alt="image" src="https://github.com/user-attachments/assets/852e5ceb-3df2-441e-8213-5585eea5547a" />
+
 
 ## RESULT
+Thus the frequency modulation and demodulation is successfully done and the output is experimentally verified.
+
 
